@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: url('images/geometry2.png');
+   /* background-color: #101010;*/
+    background-image: linear-gradient(to right, #282E58 , #22276e,#0062b1,#366196,#6574bb);
+}
+header
+{
+    height: 50px;
+    width:200px;
+    margin-left:50px;
+    color:whitesmoke;
+    /*background: linear-gradient(160deg, #02ccba 0%, #aa7ecd ,gray ,  rgb(134, 134, 235) 100%);
+    color:whitesmoke;*/
+}
