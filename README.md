@@ -1,7 +1,7 @@
 # Classic-Arcade-Game
 
 This is an Arcade game, simple game consist of a one player and multiple enemies(bugs).
-the goal is to reach the water without hit the enemy.[play](https://manarsalem.github.io/Arcade-Game/)
+the goal is to reach the water without hit the enemy.[play]( https://manarsalem.github.io/Arcade-Game/)
 
 
 
